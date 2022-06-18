@@ -3,8 +3,8 @@ This is educational website which provides education to students digitally , it 
 
 # To run this application write two commands on terminal:
 
-1. To install dependencies: 
+1. To install dependencies: <br>
   npm install
 
-2. To deploy on localhost: 
+2. To deploy on localhost: <br>
   npm start
