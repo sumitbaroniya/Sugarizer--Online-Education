@@ -1,0 +1,560 @@
+#. extracted from ../locale.ini
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Sep 06 2020 17:04:06 GMT+0200 (heure d’été d’Europe centrale)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ini2po 0.0.1\n"
+
+#: sounddir
+msgctxt "sounddir"
+msgid "en"
+msgstr ""
+
+#: learn
+msgctxt "learn"
+msgid "Learn"
+msgstr ""
+
+#: build
+msgctxt "build"
+msgid "Build"
+msgstr ""
+
+#: play
+msgctxt "play"
+msgid "Play"
+msgstr ""
+
+#: learndesc
+msgctxt "learndesc"
+msgid "Put cards in the correct boxes to learn what sort of food each animal eats."
+msgstr ""
+
+#: builddesc
+msgctxt "builddesc"
+msgid "Arrange cards in the correct order to build the right food chain."
+msgstr ""
+
+#: playdesc
+msgctxt "playdesc"
+msgid "Play the food chain: eat and avoid being eaten."
+msgstr ""
+
+#: level
+msgctxt "level"
+msgid "Level"
+msgstr ""
+
+#: score
+msgctxt "score"
+msgid "Score:"
+msgstr ""
+
+#: concept
+msgctxt "concept"
+msgid "concept & code:"
+msgstr ""
+
+#: arts
+msgctxt "arts"
+msgid "arts:"
+msgstr ""
+
+#: music
+msgctxt "music"
+msgid "music:"
+msgstr ""
+
+#: sound
+msgctxt "sound"
+msgid "sound effects:"
+msgstr ""
+
+#: alligator
+msgctxt "alligator"
+msgid "Alligator"
+msgstr ""
+
+#: animal
+msgctxt "animal"
+msgid "Animal"
+msgstr ""
+
+#: bat
+msgctxt "bat"
+msgid "Bat"
+msgstr ""
+
+#: bee
+msgctxt "bee"
+msgid "Bee"
+msgstr ""
+
+#: bird
+msgctxt "bird"
+msgid "Bird"
+msgstr ""
+
+#: camel
+msgctxt "camel"
+msgid "Camel"
+msgstr ""
+
+#: cat
+msgctxt "cat"
+msgid "Cat"
+msgstr ""
+
+#: chicken
+msgctxt "chicken"
+msgid "Chicken"
+msgstr ""
+
+#: chimp
+msgctxt "chimp"
+msgid "Chimp"
+msgstr ""
+
+#: clam
+msgctxt "clam"
+msgid "Clam"
+msgstr ""
+
+#: corn
+msgctxt "corn"
+msgid "Corn"
+msgstr ""
+
+#: cow
+msgctxt "cow"
+msgid "Cow"
+msgstr ""
+
+#: crab
+msgctxt "crab"
+msgid "Crab"
+msgstr ""
+
+#: crocodile
+msgctxt "crocodile"
+msgid "Crocodile"
+msgstr ""
+
+#: crow
+msgctxt "crow"
+msgid "Crow"
+msgstr ""
+
+#: dog
+msgctxt "dog"
+msgid "Dog"
+msgstr ""
+
+#: duck
+msgctxt "duck"
+msgid "Duck"
+msgstr ""
+
+#: fish
+msgctxt "fish"
+msgid "Fish"
+msgstr ""
+
+#: flies
+msgctxt "flies"
+msgid "Flies"
+msgstr ""
+
+#: fox
+msgctxt "fox"
+msgid "Fox"
+msgstr ""
+
+#: frog
+msgctxt "frog"
+msgid "Frog"
+msgstr ""
+
+#: giraffe
+msgctxt "giraffe"
+msgid "Giraffe"
+msgstr ""
+
+#: goat
+msgctxt "goat"
+msgid "Goat"
+msgstr ""
+
+#: grass
+msgctxt "grass"
+msgid "Grass"
+msgstr ""
+
+#: hay
+msgctxt "hay"
+msgid "Hay"
+msgstr ""
+
+#: hen
+msgctxt "hen"
+msgid "Hen"
+msgstr ""
+
+#: lamb
+msgctxt "lamb"
+msgid "Lamb"
+msgstr ""
+
+#: mice
+msgctxt "mice"
+msgid "Mice"
+msgstr ""
+
+#: mole
+msgctxt "mole"
+msgid "Mole"
+msgstr ""
+
+#: mosquito
+msgctxt "mosquito"
+msgid "Mosquito"
+msgstr ""
+
+#: mule
+msgctxt "mule"
+msgid "Mule"
+msgstr ""
+
+#: owl
+msgctxt "owl"
+msgid "Owl"
+msgstr ""
+
+#: ox
+msgctxt "ox"
+msgid "Ox"
+msgstr ""
+
+#: pig
+msgctxt "pig"
+msgid "Pig"
+msgstr ""
+
+#: rat
+msgctxt "rat"
+msgid "Rat"
+msgstr ""
+
+#: shark
+msgctxt "shark"
+msgid "Shark"
+msgstr ""
+
+#: shrimp
+msgctxt "shrimp"
+msgid "Shrimp"
+msgstr ""
+
+#: skunk
+msgctxt "skunk"
+msgid "Skunk"
+msgstr ""
+
+#: snail
+msgctxt "snail"
+msgid "Snail"
+msgstr ""
+
+#: snake
+msgctxt "snake"
+msgid "Snake"
+msgstr ""
+
+#: spider
+msgctxt "spider"
+msgid "Spider"
+msgstr ""
+
+#: spike
+msgctxt "spike"
+msgid "Spike"
+msgstr ""
+
+#: squid
+msgctxt "squid"
+msgid "Squid"
+msgstr ""
+
+#: squirrel
+msgctxt "squirrel"
+msgid "Squirrel"
+msgstr ""
+
+#: starfish
+msgctxt "starfish"
+msgid "Starfish"
+msgstr ""
+
+#: swan
+msgctxt "swan"
+msgid "Swan"
+msgstr ""
+
+#: tick
+msgctxt "tick"
+msgid "Tick"
+msgstr ""
+
+#: wheat
+msgctxt "wheat"
+msgid "Wheat"
+msgstr ""
+
+#: herbivore
+msgctxt "herbivore"
+msgid "Herbivore"
+msgstr ""
+
+#: carnivore
+msgctxt "carnivore"
+msgid "Carnivore"
+msgstr ""
+
+#: omnivore
+msgctxt "omnivore"
+msgid "Omnivore"
+msgstr ""
+
+#: TutoPrev
+msgctxt "TutoPrev"
+msgid "Prev"
+msgstr ""
+
+#: TutoNext
+msgctxt "TutoNext"
+msgid "Next"
+msgstr ""
+
+#: TutoEnd
+msgctxt "TutoEnd"
+msgid "End"
+msgstr ""
+
+#: TutoExplainTitle
+msgctxt "TutoExplainTitle"
+msgid "FoodChain Activity"
+msgstr ""
+
+#: TutoExplainContent
+msgctxt "TutoExplainContent"
+msgid "Welcome into the FoodChain activity. FoodChain is a pedagogical game to learn name of animals (word and pronunciation) and concept of food chains: who eats what? Who eats who?"
+msgstr ""
+
+#: TutoEnTitle
+msgctxt "TutoEnTitle"
+msgid "English"
+msgstr ""
+
+#: TutoEnContent
+msgctxt "TutoEnContent"
+msgid "Click here to change language cards to English"
+msgstr ""
+
+#: TutoFrTitle
+msgctxt "TutoFrTitle"
+msgid "French"
+msgstr ""
+
+#: TutoFrContent
+msgctxt "TutoFrContent"
+msgid "Click here to change language cards to French"
+msgstr ""
+
+#: TutoPtTitle
+msgctxt "TutoPtTitle"
+msgid "Potuguese"
+msgstr ""
+
+#: TutoPtContent
+msgctxt "TutoPtContent"
+msgid "Click here to change language cards to Portuguese"
+msgstr ""
+
+#: TutoLearnTitle
+msgctxt "TutoLearnTitle"
+msgid "Learn"
+msgstr ""
+
+#: TutoLearnContent
+msgctxt "TutoLearnContent"
+msgid "Click here to run the \"Learn\" game. In this game, you have to put animals in the correct box depending on what sort of food each animal eats"
+msgstr ""
+
+#: TutoBuildTitle
+msgctxt "TutoBuildTitle"
+msgid "Build"
+msgstr ""
+
+#: TutoBuildContent
+msgctxt "TutoBuildContent"
+msgid "Click here to run the \"Build\" game. In this game, you have to arrange cards in the correct order to build the right food chain"
+msgstr ""
+
+#: TutoPlayGameTitle
+msgctxt "TutoPlayGameTitle"
+msgid "Play"
+msgstr ""
+
+#: TutoPlayGameContent
+msgctxt "TutoPlayGameContent"
+msgid "Click here to run the \"Play\" game. In this game, you have to steer the frog to eat flies, don't get eaten by snakes and don't hit rocks"
+msgstr ""
+
+#: TutoInfoTitle
+msgctxt "TutoInfoTitle"
+msgid "Credits"
+msgstr ""
+
+#: TutoInfoContent
+msgctxt "TutoInfoContent"
+msgid "Click here to display activity credits"
+msgstr ""
+
+#: TutoExplainGameTitle
+msgctxt "TutoExplainGameTitle"
+msgid "Build"
+msgstr ""
+
+#: TutoExplainGameContent
+msgctxt "TutoExplainGameContent"
+msgid "In this game, you need to sort the animals according to who eats what with the strongest ones being on the left of the box"
+msgstr ""
+
+#: TutoValidateTitle
+msgctxt "TutoValidateTitle"
+msgid "Check"
+msgstr ""
+
+#: TutoValidateContent
+msgctxt "TutoValidateContent"
+msgid "Click here to check if your order is correct"
+msgstr ""
+
+#: TutoPauseTitle
+msgctxt "TutoPauseTitle"
+msgid "Pause"
+msgstr ""
+
+#: TutoPauseContent
+msgctxt "TutoPauseContent"
+msgid "Click here to pause the game"
+msgstr ""
+
+#: TutoPlayTitle
+msgctxt "TutoPlayTitle"
+msgid "Play"
+msgstr ""
+
+#: TutoPlayContent
+msgctxt "TutoPlayContent"
+msgid "Click here to resume the game"
+msgstr ""
+
+#: TutoHomeTitle
+msgctxt "TutoHomeTitle"
+msgid "Home"
+msgstr ""
+
+#: TutoHomeContent
+msgctxt "TutoHomeContent"
+msgid "Click here to go back to the Home page"
+msgstr ""
+
+#: TutoBoardTitle
+msgctxt "TutoBoardTitle"
+msgid "Box"
+msgstr ""
+
+#: TutoBoardContent
+msgctxt "TutoBoardContent"
+msgid "Here the animals appear. You need to sort them in the proper order"
+msgstr ""
+
+#: TutoExplainLearnTitle
+msgctxt "TutoExplainLearnTitle"
+msgid "Learn"
+msgstr ""
+
+#: TutoExplainLearnContent
+msgctxt "TutoExplainLearnContent"
+msgid "In this game, you need to drag the animal over the sort of food it eats"
+msgstr ""
+
+#: TutoStartTitle
+msgctxt "TutoStartTitle"
+msgid "Start Box"
+msgstr ""
+
+#: TutoStartContent
+msgctxt "TutoStartContent"
+msgid "Here is the animal. You have to decide what sort of food it eats"
+msgstr ""
+
+#: TutoHerbTitle
+msgctxt "TutoHerbTitle"
+msgid "Herbivore"
+msgstr ""
+
+#: TutoHerbContent
+msgctxt "TutoHerbContent"
+msgid "Drag the animal here if you think that it eats herbs"
+msgstr ""
+
+#: TutoCarnTitle
+msgctxt "TutoCarnTitle"
+msgid "Carnivore"
+msgstr ""
+
+#: TutoCarnContent
+msgctxt "TutoCarnContent"
+msgid "Drag the animal here if you think that it eats meat"
+msgstr ""
+
+#: TutoExplainPlayTitle
+msgctxt "TutoExplainPlayTitle"
+msgid "Play"
+msgstr ""
+
+#: TutoExplainPlayContent
+msgctxt "TutoExplainPlayContent"
+msgid "In this game, you have to steer the frog to eat flies, don't hit rocks and don't get eaten by snakes"
+msgstr ""
+
+#: TutoLivesTitle
+msgctxt "TutoLivesTitle"
+msgid "Lives"
+msgstr ""
+
+#: TutoLivesContent
+msgctxt "TutoLivesContent"
+msgid "Here you can see how many lives have you got"
+msgstr ""
+
+#: TutoCanvasTitle
+msgctxt "TutoCanvasTitle"
+msgid "Board"
+msgstr ""
+
+#: TutoCanvasContent
+msgctxt "TutoCanvasContent"
+msgid "Here is the board of the game. To move the frog, click on the direction you want to go"
+msgstr ""
+

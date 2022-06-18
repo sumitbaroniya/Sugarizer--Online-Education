@@ -1,0 +1,306 @@
+#. extracted from ../locale.ini
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Feb 18 2020 22:35:12 GMT+0100 (GMT+01:00)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ini2po 0.0.1\n"
+
+#: SavedTalk
+msgctxt "SavedTalk"
+msgid "Saved Talk"
+msgstr ""
+
+#. Do not translate {{name}}
+#: TypeSomething
+msgctxt "TypeSomething"
+msgid "Hello {{name}}. Please Type something."
+msgstr ""
+
+#: Sleepy
+msgctxt "Sleepy"
+msgid "I'm sleepy"
+msgstr ""
+
+#: Language
+msgctxt "Language"
+msgid "Language"
+msgstr ""
+
+#: Speech
+msgctxt "Speech"
+msgid "Speech"
+msgstr ""
+
+#: Face
+msgctxt "Face"
+msgid "Face"
+msgstr ""
+
+#: TypeSomethingToHear
+msgctxt "TypeSomethingToHear"
+msgid "Type something to hear it"
+msgstr ""
+
+#: AskRobot
+msgctxt "AskRobot"
+msgid "Ask robot any questions"
+msgstr ""
+
+#: VoiceChat
+msgctxt "VoiceChat"
+msgid "Voice chat"
+msgstr ""
+
+#: ratelabel
+msgctxt "ratelabel"
+msgid "Rate:"
+msgstr ""
+
+#: pitchlabel
+msgctxt "pitchlabel"
+msgid "Pitch:"
+msgstr ""
+
+#: eyesnumber
+msgctxt "eyesnumber"
+msgid "Eyes number:"
+msgstr ""
+
+#: eyes
+msgctxt "eyes"
+msgid "Round"
+msgstr ""
+
+#: glasses
+msgctxt "glasses"
+msgid "Glasses"
+msgstr ""
+
+#: speak
+msgctxt "speak"
+msgid "Speak"
+msgstr ""
+
+#: langen
+msgctxt "langen"
+msgid "English"
+msgstr ""
+
+#: langca
+msgctxt "langca"
+msgid "Catalan"
+msgstr ""
+
+#: langcs
+msgctxt "langcs"
+msgid "Czech"
+msgstr ""
+
+#: langde
+msgctxt "langde"
+msgid "German"
+msgstr ""
+
+#: langel
+msgctxt "langel"
+msgid "Greek"
+msgstr ""
+
+#: langes
+msgctxt "langes"
+msgid "Spanish"
+msgstr ""
+
+#: langeo
+msgctxt "langeo"
+msgid "Esperanto"
+msgstr ""
+
+#: langfi
+msgctxt "langfi"
+msgid "Finnish"
+msgstr ""
+
+#: langfr
+msgctxt "langfr"
+msgid "French"
+msgstr ""
+
+#: langhu
+msgctxt "langhu"
+msgid "Hungarian"
+msgstr ""
+
+#: langit
+msgctxt "langit"
+msgid "Italian"
+msgstr ""
+
+#: langkn
+msgctxt "langkn"
+msgid "Kannada"
+msgstr ""
+
+#: langla
+msgctxt "langla"
+msgid "Latin"
+msgstr ""
+
+#: langlv
+msgctxt "langlv"
+msgid "Latvian"
+msgstr ""
+
+#: langnl
+msgctxt "langnl"
+msgid "Dutch"
+msgstr ""
+
+#: langpl
+msgctxt "langpl"
+msgid "Polish"
+msgstr ""
+
+#: langpt
+msgctxt "langpt"
+msgid "Portuguese"
+msgstr ""
+
+#: langro
+msgctxt "langro"
+msgid "Romanian"
+msgstr ""
+
+#: langsk
+msgctxt "langsk"
+msgid "Slovak"
+msgstr ""
+
+#: langsv
+msgctxt "langsv"
+msgid "Swedish"
+msgstr ""
+
+#: langtr
+msgctxt "langtr"
+msgid "Turkish"
+msgstr ""
+
+#: langzh
+msgctxt "langzh"
+msgid "Chinese"
+msgstr ""
+
+#: TutoPrev
+msgctxt "TutoPrev"
+msgid "Prev"
+msgstr ""
+
+#: TutoNext
+msgctxt "TutoNext"
+msgid "Next"
+msgstr ""
+
+#: TutoEnd
+msgctxt "TutoEnd"
+msgid "End"
+msgstr ""
+
+#: TutoExplainTitle
+msgctxt "TutoExplainTitle"
+msgid "Speak Activity"
+msgstr ""
+
+#: TutoExplainContent
+msgctxt "TutoExplainContent"
+msgid "Welcome into the Speak activity. Speak is talking face. Anything you type will be spoken aloud using the speech synthesizer"
+msgstr ""
+
+#: TutoReadTitle
+msgctxt "TutoReadTitle"
+msgid "Reading"
+msgstr ""
+
+#: TutoReadContent
+msgctxt "TutoReadContent"
+msgid "Click here to enter \"Reading\" mode. Type something to hear it"
+msgstr ""
+
+#: TutoQuestionTitle
+msgctxt "TutoQuestionTitle"
+msgid "Questions"
+msgstr ""
+
+#: TutoQuestionContent
+msgctxt "TutoQuestionContent"
+msgid "Click here to enter \"Question\" mode. Ask robot any questions (available soon)"
+msgstr ""
+
+#: TutoVoiceTitle
+msgctxt "TutoVoiceTitle"
+msgid "Voice Chat"
+msgstr ""
+
+#: TutoVoiceContent
+msgctxt "TutoVoiceContent"
+msgid "Click here to enter \"Voice chat\" mode. There you can talk with the robot (available soon)"
+msgstr ""
+
+#: TutoLanguageTitle
+msgctxt "TutoLanguageTitle"
+msgid "Language"
+msgstr ""
+
+#: TutoLanguageContent
+msgctxt "TutoLanguageContent"
+msgid "Click here to change language. It's important to set the right language to be sure to have the right pronounciation"
+msgstr ""
+
+#: TutoSpeechTitle
+msgctxt "TutoSpeechTitle"
+msgid "Speech"
+msgstr ""
+
+#: TutoSpeechContent
+msgctxt "TutoSpeechContent"
+msgid "Click here to change speech parameters, such as rate and pitch"
+msgstr ""
+
+#: TutoFaceTitle
+msgctxt "TutoFaceTitle"
+msgid "Face"
+msgstr ""
+
+#: TutoFaceContent
+msgctxt "TutoFaceContent"
+msgid "Click here to change the look of the face. For example eyes shape and count"
+msgstr ""
+
+#: TutoTextTitle
+msgctxt "TutoTextTitle"
+msgid "Text"
+msgstr ""
+
+#: TutoTextContent
+msgctxt "TutoTextContent"
+msgid "Type here the text to speech. Click on the right arrow to launch the speech"
+msgstr ""
+
+#: TutoHistoryTitle
+msgctxt "TutoHistoryTitle"
+msgid "History"
+msgstr ""
+
+#: TutoHistoryContent
+msgctxt "TutoHistoryContent"
+msgid "Click here to see previous text spoken. You can also click on them to let them appear in the text box"
+msgstr ""
+
